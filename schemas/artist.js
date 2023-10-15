@@ -13,5 +13,10 @@ export default {
       type: 'image',
       title: 'Thumbnail',
     },
+    {
+      name: 'bio',
+      type: 'text',
+      title: 'Bio',
+    },
   ],
 }

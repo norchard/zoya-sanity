@@ -16,6 +16,11 @@ export default {
       to: [{type: 'artist'}],
     },
     {
+      name: 'year',
+      type: 'string',
+      title: 'Year',
+    },
+    {
       name: 'medium',
       type: 'string',
       title: 'Medium',
